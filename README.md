@@ -1,8 +1,8 @@
 # Interact Club Marsa Mind
 
-A Next.js website implementation for Interact Club Marsa Mind. Despite the repository name, this project is separate from the [LGF Engineering Club website](https://github.com/GameNotCreator/club).
+A Next.js website for Interact Club Marsa Mind.
 
-This repository and [`clubingelgf`](https://github.com/GameNotCreator/clubingelgf) contain related versions of the site and preserve its development history.
+This repository preserves the site's source code and development history.
 
 The original Next.js setup instructions are retained below. Install the dependencies with `npm install` before starting the development server. The package defines `dev`, `build`, `start` and `lint` scripts.
 
@@ -44,4 +44,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# lililand
